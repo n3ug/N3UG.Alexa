@@ -60,3 +60,4 @@ typings/
 .sonarlint
 package-lock.json
 *.zip
+.ask
